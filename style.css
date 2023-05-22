@@ -1,0 +1,21 @@
+  .general{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-top: 20px;
+  }
+  input{
+    margin-bottom: 10px;
+  }
+  button{
+    background-color: red;
+    cursor: pointer;
+  }
+  .error{
+    position: absolute;
+    top:0;
+    right: 10px;
+  }
+.all{
+    display: flex;
+}
